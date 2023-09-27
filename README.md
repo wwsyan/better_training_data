@@ -4,7 +4,7 @@
 ## 人类动作识别（视频分类方向）
 [2023 ICCV ProPainter](https://github.com/sczhou/ProPainter)，视频对象抠图，视频水印移除，实际上是一种局部重绘（即inpaint），需要提供逐帧的蒙板图片。
 
-[2023 ICCV](https://github.com/hkchengrex/Tracking-Anything-with-DEVA)，视频级实例分割与跟踪，可通过prompt对分割对象进行控制。
+[2023 ICCV Tracking Anything with DEVA](https://github.com/hkchengrex/Tracking-Anything-with-DEVA)，视频级实例分割与跟踪，可通过prompt对分割对象进行控制。
 
 
 
